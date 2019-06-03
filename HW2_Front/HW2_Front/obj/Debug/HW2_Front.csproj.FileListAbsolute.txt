@@ -1,0 +1,14 @@
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\bin\Debug\HW2_Front.exe.config
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\bin\Debug\HW2_Front.exe
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\bin\Debug\HW2_Front.pdb
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.csprojAssemblyReference.cache
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Form1.resources
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Properties.Resources.resources
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.exe
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.pdb
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Form2.resources
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Form3.resources
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Form4.resources
+C:\Users\Ovi\Desktop\ii\HW2_Front\HW2_Front\obj\Debug\HW2_Front.Form5.resources
